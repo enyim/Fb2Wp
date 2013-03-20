@@ -27,7 +27,7 @@ A feljovo ablakban navigalj el oda, ahova letoltotted a Fb2Wp.exe fajlt
 
 Ha ez megvan, akkor:
 
-	Wp2Fb.exe <forras> <cel>
+	fb2wp.exe <forras> <cel>
 
 A `forras` azt a konyvtarat adja meg, ahova a freeblogos export ki van toomoritve. (Ebben a konyvtarban van a `comments.xml`, `categories.xml` es `entries.xml`.)
 
