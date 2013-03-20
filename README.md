@@ -35,3 +35,8 @@ Pl.:
 
 	fb2wp.exe "c:\Dokumentumok\export_20130319\" "c:\Dokumentumok\wp.xml"
 
+## Tippek
+
+Ha kesz a konvertalas akkor valamilyen szovegszerkesztoben (pl [Notepad++](http://notepad-plus-plus.org/)) javitsd ki a kep es egyeb fajl hivatkozasokat.
+
+Keress ra arra, hogy "http://blogod.freeblog.hu/files/" es javitsd at az uj wordpresses urlekre.
