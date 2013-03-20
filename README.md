@@ -2,6 +2,8 @@
 
 Freeblogos exportot konvertal Wordpesses xmlbe.
 
+Letoltes: [Fb2Wp.zip](https://www.dropbox.com/s/k0rkahszgy6zl6g/Fb2Wp.zip)
+
 Notesz:
 
 - ha nem mukodik, az nem az en hibam
